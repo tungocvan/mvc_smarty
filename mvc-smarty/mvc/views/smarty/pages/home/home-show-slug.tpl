@@ -1,0 +1,1 @@
+<h2>HOME SLUG TPL - {$slug}</h2>
