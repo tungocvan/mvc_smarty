@@ -1,0 +1,8 @@
+[REQUEST_SCHEME] => http
+[HTTP_HOST] => localhost
+[SERVER_NAME] => localhost
+[QUERY_STRING] => url=blog/blogDetail/google-wants-your-seo-questions-for-a-series-of-qa-videos
+[REQUEST_URI] => /php-mvc-master/index.php?url=blog/blogDetail/google-wants-your-seo-questions-for-a-series-of-qa-videos
+[SCRIPT_NAME] => /php-mvc-master/index.php
+[PHP_SELF] => /php-mvc-master/index.php
+[HTTP_REFERER] => http://localhost/php-mvc-master/index.php
